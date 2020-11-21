@@ -21,7 +21,7 @@ Create below settings.xml file in ~/.m2/  (maven setting folder in your own dire
 
 Locate the jar file you want install to remote nexus server. Down load the sample from 
 
-[here]: candidate.jar
+[here]: https://github.com/aaronliruns/your-own-repo/raw/master/candidate.jar
 
 as below
 
