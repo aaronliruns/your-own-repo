@@ -40,7 +40,7 @@ mvn deploy:deploy-file -DgroupId=com.ocft.candidate \
     -Durl=http://nexus.ocft.work:8081/repository/maven-releases/
 ```
 
-Note: repositoryId much match with id value in settings.xml so that the credential configured will take effect.
+Note: repositoryId must match with id value in settings.xml so that the credential configured will take effect.
 
 Once completed, you will find jar file is already uploaded
 
