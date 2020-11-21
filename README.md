@@ -19,11 +19,7 @@ Create below settings.xml file in ~/.m2/  (maven setting folder in your own dire
 
 
 
-Locate the jar file you want install to remote nexus server. Down load the sample from 
-
-[here]: https://github.com/aaronliruns/your-own-repo/raw/master/candidate.jar
-
-as below
+Locate the jar file you want install to remote nexus server. Down load the sample candidate.jar from this repo.
 
 ```
 aaron@aaron-RedmiBook-16:~/Workspaces/oc-nexus$ ls
